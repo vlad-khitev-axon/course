@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.4"
+  },
   "devDependencies": {
     "@types/node": "^11.11.4",
     "eslint": "^5.15.3",
