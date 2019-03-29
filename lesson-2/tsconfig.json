@@ -19,7 +19,9 @@
     "jsx": "preserve"
   },
   "include": [
-    "src"
+    "src",
+    "homework/homework.test.js",
+    "homework/homework.js"
   ],
   "exclude": [
     "node_modules"

@@ -2,7 +2,8 @@
   "env": {
     "browser": true,
     "es6": true,
-    "node": true
+    "node": true,
+    "jest": true
   },
   "parserOptions": {
     "project": "./tsconfig.json",
@@ -16,6 +17,9 @@
     "plugin:prettier/recommended"
   ],
   "rules": {
-    "no-console": "off"
+    "no-console": "off",
+    "guard-for-in": "off",
+    "no-restricted-syntax": "off",
+    "no-nested-ternary": "off"
   }
 }

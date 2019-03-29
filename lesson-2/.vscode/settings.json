@@ -48,4 +48,5 @@
   "eslint.autoFixOnSave": true,
   "javascript.implicitProjectConfig.checkJs": true,
   "javascript.validate.enable": true,
+  "javascript.format.enable": false
 }
